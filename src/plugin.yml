@@ -1,0 +1,8 @@
+name: BukkitPlugin
+version: 1.0
+main: com.tutorial.bukkitplugin.Main
+description: Tutorial!
+
+commands:
+  tutorial:
+    usage: /<command>
